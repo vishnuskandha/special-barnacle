@@ -38,7 +38,7 @@ I love working with Jetson Nano, ESP32, ReactJS, and Python — blending hardwar
 ### 🛠️ Tech Stack
 
 ```python
-Languages:    Python | C | Java | JavaScript | PHP | SQL  
-Frameworks:   ReactJS | Arduino | Firebase | OpenCV  
+Languages:    Python | C | Java | JavaScript | SQL  
+Frameworks:   ReactJS | Arduino | OpenCV  
 Tools:        Jetson Nano | ESP32 | Jupyter | Git | Linux | Figma  
 Domains:      AI/ML | Cybersecurity | IoT | Web Dev | Data Analysis
