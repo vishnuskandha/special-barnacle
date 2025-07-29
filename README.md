@@ -34,6 +34,12 @@ I love working with Jetson Nano, ESP32, ReactJS, and Python — blending hardwar
 - 🔹 [`arduino-projects`](https://github.com/vishnuskandha/arduino-projects)  
   Hands-on experiments with sensors, LCDs, and microcontroller circuits.
 
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnuskandha&show_icons=true&theme=radical&count_private=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuskandha&theme=radical" width="47%"/>
+</p>
+
 ---
 
 ### 🛠️ Tech Stack
@@ -43,8 +49,3 @@ Languages:    Python | C | Java | JavaScript | SQL
 Frameworks:   ReactJS | Arduino | OpenCV  
 Tools:        Jetson Nano | ESP32 | Jupyter | Git | Linux | Figma  
 Domains:      AI/ML | Cybersecurity | IoT | Web Dev | Data Analysis
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnuskandha&show_icons=true&theme=radical&count_private=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuskandha&theme=radical" width="47%"/>
-</p>
