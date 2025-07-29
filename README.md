@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnuskandha&show_icons=true&theme=radical&count_private=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuskandha&theme=radical" width="47%"/>
+</p>
+
 <h1 align="center">Hi, I'm Vishnu Skandha 👋</h1>
 
 <p align="center">
